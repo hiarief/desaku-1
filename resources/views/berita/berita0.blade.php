@@ -1,3 +1,5 @@
+{{-- dsvbhdsbvhjdsbk --}}
+
 @extends('frontend.index')
 @section('berita')
 <main id="content" class="mt-4">
