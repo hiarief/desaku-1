@@ -1,4 +1,6 @@
-{{-- dsvbhdsbvhjdsbk --}}
+{{-- dsvbhdsbvhjdsbk 
+	Arief--}}
+	{{-- hahfasnfaf --}}
 
 @extends('frontend.index')
 @section('berita')
